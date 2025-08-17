@@ -1,4 +1,4 @@
-# 📌 Project: Loan Default Prediction using Artificial Neural Network (ANN)
+# 📌 Loan Default Prediction using Artificial Neural Network (ANN)
 
 ## 📂 Dataset
 The dataset used in this project is available on Kaggle:  
