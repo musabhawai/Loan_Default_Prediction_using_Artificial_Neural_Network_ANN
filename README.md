@@ -19,21 +19,21 @@ reducing default rates.
 
 -   Conducted *Exploratory Data Analysis (EDA)* using Pandas, NumPy,
     Matplotlib, Seaborn to identify important features, handle
-    duplicate/missing values, and analyze class distribution.\
+    duplicate/missing values, and analyze class distribution.
 -   Performed *data preprocessing*: removed redundant features,
     converted categorical variables to dummy variables, normalized
     numerical data, and encoded target labels (*1 = Fully Paid, 0 =
-    Charged Off*).\
+    Charged Off*).
 -   Built an *Artificial Neural Network (ANN)* using TensorFlow &
     Keras Sequential API with multiple Dense layers, ReLU activation,
     Dropout regularization, and a Sigmoid output layer for binary
-    classification.\
+    classification.
 -   Compiled model with *Adam optimizer* and **Binary Crossentropy
     loss**, trained with large batch size and multiple epochs using
-    validation data to prevent overfitting.\
+    validation data to prevent overfitting.
 -   Implemented *model evaluation* using classification report,
     confusion matrix, accuracy score, and performance visualization
-    (training vs validation loss).\
+    (training vs validation loss).
 -   Deployed *prediction pipeline* for unseen loan applications and
     saved model for future use.
 
@@ -42,9 +42,9 @@ reducing default rates.
 ## ⚙️ Technologies Used
 
 -   *Languages/Libraries*: Python, Pandas, NumPy, Matplotlib, Seaborn,
-    Scikit-learn, TensorFlow, Keras\
+    Scikit-learn, TensorFlow, Keras
 -   *Techniques*: Data Preprocessing, Feature Engineering, Dummy
-    Encoding, Normalization, ANN, Dropout, Model Evaluation\
+    Encoding, Normalization, ANN, Dropout, Model Evaluation
 -   *Tools*: Jupyter Notebook
 
 ------------------------------------------------------------------------
@@ -52,10 +52,10 @@ reducing default rates.
 ## ✅ Impact
 
 -   Automated the *loan risk assessment process*, enabling faster and
-    more consistent borrower evaluation.\
+    more consistent borrower evaluation.
 -   Enhanced the ability of financial institutions to **identify
-    high-risk loan applicants** before approval.\
+    high-risk loan applicants** before approval.
 -   Improved *decision-making efficiency* by replacing manual credit
-    risk checks with a scalable AI-driven solution.\
+    risk checks with a scalable AI-driven solution.
 -   Built a *reusable prediction pipeline* that can be integrated into
     real-world lending platforms for operational use.
